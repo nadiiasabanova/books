@@ -1,5 +1,4 @@
 <div>React Book Library APP Portfolio Project - used Redux Toolkit</div>
-<a href="https://vitaliygalata1986.github.io/react-meals/" target="_blank">Visit my site</a>
 <div>Для запуска frontend</div>
 <ol>
     <li>В терминале перейти в директорию frontend: cd frontend</li>
